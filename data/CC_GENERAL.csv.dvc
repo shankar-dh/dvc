@@ -1,0 +1,5 @@
+outs:
+- md5: 63f24caa2ba3a156a1012c8d87a89296
+  size: 902881
+  hash: md5
+  path: CC_GENERAL.csv
