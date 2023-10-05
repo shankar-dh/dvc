@@ -1,0 +1,5 @@
+[core]
+    remote = dvclab
+['remote "dvclab"']
+    url = gs://dvc-lab
+    credentialpath = C:\Users\dkdha\Downloads\weighty-forest-399219-fb6ae9ec367c.json
